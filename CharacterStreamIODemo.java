@@ -7,7 +7,7 @@ class CharacterStreamIODemo
 File f1= new File("file.txt");
 File f2= new File("Outfile.txt");
 
-if (f1.exists() == false)
+if (!f1.exists())
 {
 System.out.println("this file does not exist");
 return;
