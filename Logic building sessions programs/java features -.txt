@@ -1,0 +1,74 @@
+java features :- 
+1. simple
+2. secure
+3. high level prog
+	4. platform independent ( WORA )
+	
+	javac <fileName.java>
+		
+	.class  -- byteCode
+
+	jre
+	
+5. portability
+6. multithread
+7. robust
+8. OOP
+9. Dynamic 
+// 10. network support
+11. distributed
+
+///////////////
+java 1.7 
+String in switch case
+binary literal
+
+
+java 1.8
+lambda exp
+funtional interface
+arrow fun
+stream api
+foreach 
+
+
+
+java 11
+
+
+java 17
+
+/////////////////////////////
+
+c++ VS Java
+------------
+1. pointers 
+
+2. platform depedent 
+
+3. approch
+
+4. class & structure  
+
+5. access modifire
+
+6. inheritance
+
+7. system prog vs application
+
+8. interepeted 
+
+9. goto statements
+
+10. friend keyword
+
+11. operator overloading
+
+12. compiler
+
+13. memory (garbage collector)
+
+14. data types 
+
+15. runtime env
+16. class template
